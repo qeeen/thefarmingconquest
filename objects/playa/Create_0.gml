@@ -1,0 +1,1 @@
+struct = new player(id, 0, 0);
